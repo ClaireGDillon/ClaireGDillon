@@ -2,8 +2,6 @@
 ### I am just starting my venture into the tech world!
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an AWS re/start course.
 - 🌱 I’m currently learning how to code in Python and learning SQL.
 - 🤔 I’m looking for help with getting into cyber security.
