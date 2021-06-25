@@ -3,7 +3,8 @@ Claire Dillon 07769712970 | clairedezilva@hotmail.com | www.linkedin.com/in/clai
 I have extensive experience working in merchandising roles within the fashion retail sector for various blue-chip companies for 13 years. Since taking a career break I have decided to change my career and upskill to obtain a career in IT. I am currently taking an AWS re/start course.
 
 Skills
-* I am currently learning how to code in Python and learning SQL.
+* Basic Python
+* Basic Linux
 * Advanced in Microsoft Excel
 * Organisation & planning
 * Critical thinking & problem solving
