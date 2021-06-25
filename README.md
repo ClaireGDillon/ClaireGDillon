@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to upcycle old furniture and bring things back to life.
 
 
+![tenor](https://user-images.githubusercontent.com/85616518/123413413-a8ea0e00-d5aa-11eb-93f8-43c0ac49a2b8.gif)
 
 [linkedin]: https://linkedin.com/in/clairedillon
