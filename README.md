@@ -8,7 +8,7 @@ Skills
 * Advanced in Microsoft Excel
 * Organisation & planning
 * Critical thinking & problem solving
-* Communication & resentation
+* Communication & presentation
 * Teamwork
 * Commercial awareness
 
@@ -60,7 +60,5 @@ Work Experience
 •	Chasing shipments
 •	Assisting team with sign off packs and presentations.
 
-
-![tenor](https://user-images.githubusercontent.com/85616518/123413413-a8ea0e00-d5aa-11eb-93f8-43c0ac49a2b8.gif)
 
 [linkedin]: https://linkedin.com/in/clairedillon
