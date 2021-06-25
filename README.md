@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to upcycle old furniture and bring things back to life.
 
 
+https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627
+
 [linkedin]: https://linkedin.com/in/clairedillon
